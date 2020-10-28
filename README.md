@@ -19,9 +19,15 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
-## Links to Deployed Pages 
-https://clhurlbut.github.io/Password_Generator/
+
+## Links
+
+### Github Deployed Page : https://clhurlbut.github.io/Password_Generator/
+### Github Repo Page : https://github.com/clhurlbut/Password_Generator
+
 ## Screenshot of page 
 
+[](https://raw.githubusercontent.com/clhurlbut/Password_Generator/main/Assets/Screenshot%202020-10-27%20213534.png)
 
+##### Thank you UCLA Coding Bootcamp / Trilogy! 
 
