@@ -21,14 +21,11 @@ Github Repository URL : https://github.com/clhurlbut/Password_Generator
 
 ## Screenshot
 
-![Alt text](/assets/screenshot.png?raw=true "Screenshot of Deployed Gitpage")
+![](/assets/screenshot.png?raw=true "Screenshot of Deployed Gitpage")
 
 
 ## Contribution
 Made in part with :potato: by Cassie Hurlbut for UCLA Coding Bootcampe / Trilogy 
-
-
-[](https://raw.githubusercontent.com/clhurlbut/Password_Generator/main/Assets/Screenshot%202020-10-27%20213534.png)
 
 ##### Thank you UCLA Coding Bootcamp / Trilogy! 
 
