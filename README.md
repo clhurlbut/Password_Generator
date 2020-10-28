@@ -21,7 +21,7 @@ Github Repository URL : https://github.com/clhurlbut/Password_Generator
 
 ## Screenshot
 
-![](/assets/screenshot.png?raw=true "Screenshot of Deployed Gitpage")
+![Screenshot of Deployed Gitpage](./Assets/screenshot.png)
 
 
 ## Contribution
