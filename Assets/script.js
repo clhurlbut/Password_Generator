@@ -1,7 +1,10 @@
 // Assignment code here
 
 // Defining variables here 
+
+// I made this global so I could use it in everything
 var choices;
+
 var confirmLength;
 var confirmLowercase;
 var confirmUppercase;
